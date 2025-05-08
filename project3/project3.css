@@ -1,0 +1,36 @@
+header{
+    height:15vh;
+    background-color:	#0F172A ;
+    color:#F1F5F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    background-color:	#3B82F6 ;
+    color:#FFFFFF;
+    height: 70vh;
+}
+fieldset{
+    background-color:	#1E293B ;
+    color:#E2E8F0;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+div{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+footer{
+    background-color: #111827;
+    color: #D1D5DB;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
