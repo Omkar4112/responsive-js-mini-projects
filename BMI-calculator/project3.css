@@ -1,49 +1,35 @@
-header {
-    height: 15vh;
-    background-color: #2C3E50;
-    color: #ECF0F1;
+header{
+    height:15vh;
+    background-color:	#0F172A ;
+    color:#F1F5F9;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
-main {
-    background-color: #3498DB;
-    color: #FFFFFF;
+main{
+    background-color:	#3B82F6 ;
+    color:#FFFFFF;
     height: 70vh;
 }
-
-fieldset {
-    background-color: #34495E;
-    color: #DDE6ED;
+fieldset{
+    background-color:	#1E293B ;
+    color:#E2E8F0;
     margin-top: 3vh;
     margin-bottom: 3vh;
 }
-
-div {
+div{
     margin-top: 2vh;
     margin-bottom: 2vh;
-    background-color: #F0F4F8;
-    color: #2C3E50;
-    padding: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
 }
-
-footer {
-    background-color: #1A252F;
-    color: #BDC3C7;
+footer{
+    background-color: #111827;
+    color: #D1D5DB;
     height: 15vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
-section {
+section{
     display: flex;
     justify-content: center;
     align-items: center;
