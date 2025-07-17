@@ -3,7 +3,7 @@
     margin:0;
 }
 header {
-    background-color: green; 
+    background-color: #C3B1E1; 
     color: #FFFFFF;  
     height:15vh;
     display: flex;
@@ -11,13 +11,13 @@ header {
     align-items: center;             
 }
 main{
-    background-color: #FDF2E9;
-    color: #6E2C00;  
+    background-color: #E6FFF5;
+    color: #264653;  
     height:70vh;
 }
 div{
-    background-color: #FDF2E9;
-    color: #6E2C00;  
+    background-color: 	#B8E0D2;
+    color: #34495E;  
     height:50vh;
     display: flex;
     justify-content: center;
@@ -35,7 +35,7 @@ h1,button,label{
 }
 
 footer {
-    background-color: #CA6F1E; 
+    background-color: #F4A896; 
     color: #FFFFFF; 
     height:15vh;
     display: flex;
