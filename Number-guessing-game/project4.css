@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: #A3C4F3;
+    background-color: #FFB3C1;
     color: #1B1B1B;
     height: 15vh;
     display: flex;
@@ -26,6 +26,10 @@ div {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    border-color: #333B3E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 p {
