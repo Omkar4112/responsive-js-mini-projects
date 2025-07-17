@@ -1,7 +1,16 @@
 * {
-    padding: 0;
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ECF0F1;
+    color: #2C3E50;
+    line-height: 1.6;
+}
+
 header {
     height: 15vh;
     background-color: #2C3E50;
@@ -9,33 +18,47 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
 }
 
 main {
     background-color: #3498DB;
     color: #FFFFFF;
     height: 70vh;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 fieldset {
     background-color: #34495E;
     color: #DDE6ED;
-    margin-top: 3vh;
-    margin-bottom: 3vh;
+    padding: 1.5rem;
+    border: none;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 600px;
+    margin: 3vh auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 div {
-    margin-top: 2vh;
-    margin-bottom: 2vh;
+    margin: 2vh auto;
     background-color: #F0F4F8;
     color: #2C3E50;
-    padding: 1rem;
+    padding: 1rem 1.5rem;
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    max-width: 600px;
+    width: 90%;
 }
 
 footer {
@@ -45,11 +68,14 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 1rem;
+    text-align: center;
 }
 
 section {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 2rem;
+    width: 100%;
 }
-
