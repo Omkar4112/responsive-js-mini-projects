@@ -2,37 +2,36 @@
     padding: 0;
     margin: 0;
 }
-
 header {
     height: 15vh;
-    background-color: #A7C7E7;
-    color: #2F3E46;
+    background-color: #2C3E50;
+    color: #ECF0F1;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 main {
-    background-color: #E7F6F2;
-    color: #2F3E46;
+    background-color: #3498DB;
+    color: #FFFFFF;
     height: 70vh;
 }
 
 fieldset {
-    background-color: #F6E6F4;
-    color: #2F3E46;
+    background-color: #34495E;
+    color: #DDE6ED;
     margin-top: 3vh;
     margin-bottom: 3vh;
 }
 
 div {
-    background-color: #FDF6EC;
-    color: #2F3E46;
     margin-top: 2vh;
     margin-bottom: 2vh;
+    background-color: #F0F4F8;
+    color: #2C3E50;
     padding: 1rem;
     border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,8 +39,8 @@ div {
 }
 
 footer {
-    background-color: #B8B3E9;
-    color: #ffffff;
+    background-color: #1A252F;
+    color: #BDC3C7;
     height: 15vh;
     display: flex;
     justify-content: center;
@@ -53,3 +52,4 @@ section {
     justify-content: center;
     align-items: center;
 }
+
