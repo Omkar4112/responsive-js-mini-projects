@@ -1,6 +1,6 @@
 header {
     height: 15vh;
-    background-color: #1E3A8A;
+    background-color: #4B5563;
     color: #F1F5F9;
     display: flex;
     justify-content: center;
@@ -8,14 +8,14 @@ header {
 }
 
 main {
-    background-color: #2563EB;
+    background-color: #10B981;
     color: #FFFFFF;
     height: 70vh;
 }
 
 fieldset {
-    background-color: #1E293B;
-    color: #E2E8F0;
+    background-color: #F59E0B;
+    color: #1F2937;
     margin-top: 3vh;
     margin-bottom: 3vh;
 }
@@ -26,8 +26,8 @@ div {
 }
 
 footer {
-    background-color: #0F172A;
-    color: #D1D5DB;
+    background-color: #6B21A8;
+    color: #F3E8FF;
     height: 15vh;
     display: flex;
     justify-content: center;
