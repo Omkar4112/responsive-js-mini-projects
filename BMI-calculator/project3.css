@@ -1,33 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 header {
     height: 15vh;
-    background-color: #4B5563;
-    color: #F1F5F9;
+    background-color: #A7C7E7;
+    color: #2F3E46;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 main {
-    background-color: #10B981;
-    color: #FFFFFF;
+    background-color: #E7F6F2;
+    color: #2F3E46;
     height: 70vh;
 }
 
 fieldset {
-    background-color: #F59E0B;
-    color: #1F2937;
+    background-color: #F6E6F4;
+    color: #2F3E46;
     margin-top: 3vh;
     margin-bottom: 3vh;
 }
 
 div {
+    background-color: #FDF6EC;
+    color: #2F3E46;
     margin-top: 2vh;
     margin-bottom: 2vh;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 footer {
-    background-color: #6B21A8;
-    color: #F3E8FF;
+    background-color: #B8B3E9;
+    color: #ffffff;
     height: 15vh;
     display: flex;
     justify-content: center;
